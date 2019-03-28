@@ -3,6 +3,14 @@
 
 
 
+Ravencoin 2.2.2 for RPI ARM32bit Architecture
+==============================================
+
+This is a custom implementation maintaned by ravenlandpush, (www.ravenland.org) of the ARM32bit version of Ravencoin. For some reason there does not appear to be an ARM release I could see, so thought I would make this available. 
+
+If you are able to compile it manually, we commend you do so yourselves using the following instructions https://github.com/RavenProject/Ravencoin/blob/master/doc/build-unix.md and with the RavenProject/Ravencoin repository URL given above.
+
+
 
 
 Raven Core integration/staging tree
