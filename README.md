@@ -3,7 +3,7 @@
 
 
 
-Ravencoin 2.2.2 for RPI ARM32bit Architecture
+Ravencoin 2.2.2 for RPI ARM32bit Architecture & Automatic Raspberry Pi 3 Prebuilt Image for Easy Node hosting
 ==============================================
 
 This is a custom implementation maintaned by ravenlandpush, (www.ravenland.org) of the ARM32bit version of Ravencoin. For some reason there does not appear to be an ARM release I could see, so thought I would make this available. 
