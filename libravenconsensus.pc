@@ -1,0 +1,11 @@
+prefix=/home/ravenpi/Ravencoin-2.5.1/depends/arm-linux-gnueabihf
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Raven Core consensus library
+Description: Library for the Raven consensus protocol.
+Version: 2.5.1
+Libs: -L${libdir} -lravenconsensus
+Cflags: -I${includedir}
+Requires.private: libcrypto

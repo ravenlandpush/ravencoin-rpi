@@ -1,37 +1,17 @@
-Automatic Ravencoin Rpi Node deploy
-==============================================
-
-### THIS IS A FORK OF https://github.com/RavenProject/Ravencoin/releases
-### If you know how to compile yourself it is recommended you get the source from there and compile it
-
-
-
-Ravencoin 2.2.2 for RPI ARM32bit Architecture & Automatic Raspberry Pi 3 Prebuilt Image for Easy Node hosting
-==============================================
-
-This is a custom implementation maintaned by ravenlandpush, (www.ravenland.org) of the ARM32bit version of Ravencoin. For some reason there does not appear to be an ARM release I could see, so thought I would make this available. 
-
-If you are able to compile it manually, we commend you do so yourselves using the following instructions https://github.com/RavenProject/Ravencoin/blob/master/doc/build-unix.md and with the RavenProject/Ravencoin repository URL given above.
-
-
-
-
 Raven Core integration/staging tree
 =====================================
 
 https://ravencoin.org
 
-What is Raven?
+What is Ravencoin?
 ----------------
 
-Raven is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Raven uses peer-to-peer technology to operate
+Ravencoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Ravencoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Raven Core is the name of open source
-software which enables the use of this currency.
+out collectively by the network. 
 
-For more information, as well as an immediately useable, binary version of
-the Raven Core software, see https://ravencoin.org
+
 
 License
 -------
@@ -47,10 +27,6 @@ completely stable. [Tags](https://github.com/RavenProject/Ravencoin/tags) are cr
 regularly to indicate new official, stable release versions of Raven Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/raven-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
 
 Developer IRC can be found on Freenode at #raven-core-dev.
 
@@ -121,15 +97,3 @@ In the new global economy, borders and jurisdictions will be less relevant as mo
 
 For such a global system to work it will need to be independent of regulatory jurisdictions.  This is not due to ideological belief but practicality: if the rails for blockchain asset transfer are not censorship resistance and jurisdiction agnostic, any given jurisdiction may be in conflict with another.  In legacy systems, wealth was generally confined in the jurisdiction of the holder and therefore easy to control based on the policies of that jurisdiction. Because of the global nature of blockchain technology any protocol level ability to control wealth would potentially place jurisdictions in conflict and will not be able to operate fairly.  
 
-
-# LICENSE & TERMS OF USE
-
-> The MIT License
->
-> Copyright © 2017-2019 ADAM BULL & RAVENLAND.ORG
->
-> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
->
-> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
->
-> THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
